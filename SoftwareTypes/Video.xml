@@ -1,0 +1,81 @@
+<SoftwareType>
+	<Name>Youtube Video</Name>
+	<Category>Youtube</Category>
+	<Description></Description>
+	<Random>0.1</Random>
+	<Categories>
+		<Category Name="Gaming">
+			<Description>A gaming video</Description>
+			<Popularity>0.2</Popularity>
+			<Retention>1</Retention>
+			<TimeScale>0.25</TimeScale>
+			<Iterative>0.75</Iterative>
+			<NameGenerator>Gaming Video</NameGenerator>
+		</Category>
+	</Categories>
+	<OSSpecific>FALSE</OSSpecific>
+	<OneClient>FALSE</OneClient>
+	<InHouse>TRUE</InHouse>
+	<Features>
+        <Feature Forced="TRUE">
+            <Name>Audio</Name>
+            <Category>Audio</Category>
+            <Description>Audio for your video</Description>
+            <DevTime>2</DevTime>
+            <Innovation>0</Innovation>
+            <Usability>0</Usability>
+            <Stability>1</Stability>
+            <CodeArt>1</CodeArt>
+        </Feature>
+        <Feature From="Audio">
+            <Name>280p Video</Name>
+            <Category>Video</Category>
+            <Description>Something to watch for your video</Description>
+            <DevTime>2</DevTime>
+            <Innovation>0</Innovation>
+            <Usability>1</Usability>
+            <Stability>1</Stability>
+            <CodeArt>1</CodeArt>
+        </Feature>
+        <Feature From="280p Video">
+            <Name>360p Video</Name>
+            <Category>Video</Category>
+            <Description>Something to watch for your video</Description>
+            <DevTime>3</DevTime>
+            <Innovation>0</Innovation>
+            <Usability>1</Usability>
+            <Stability>1</Stability>
+            <CodeArt>1</CodeArt>
+        </Feature>
+        <Feature From="360p Video">
+            <Name>460p Video</Name>
+            <Category>Video</Category>
+            <Description>Something to watch for your video</Description>
+            <DevTime>4</DevTime>
+            <Innovation>0</Innovation>
+            <Usability>1</Usability>
+            <Stability>1</Stability>
+            <CodeArt>1</CodeArt>
+        </Feature>
+        <Feature From="460p Video">
+            <Name>720p HD Video</Name>
+            <Category>Video</Category>
+            <Description>Something to watch for your video</Description>
+            <DevTime>5</DevTime>
+            <Innovation>0</Innovation>
+            <Usability>1</Usability>
+            <Stability>1</Stability>
+            <CodeArt>1</CodeArt>
+        </Feature>
+        <Feature From="720p HD Video">
+            <Name>1080p HD Video</Name>
+            <Category>Video</Category>
+            <Description>Something to watch for your video</Description>
+            <DevTime>6</DevTime>
+            <Innovation>0</Innovation>
+            <Usability>1</Usability>
+            <Stability>1</Stability>
+            <CodeArt>1</CodeArt>
+        </Feature>
+	</Features>
+</SoftwareType>
