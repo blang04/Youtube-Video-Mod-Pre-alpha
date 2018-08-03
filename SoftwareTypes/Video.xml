@@ -77,5 +77,15 @@
             <Stability>1</Stability>
             <CodeArt>1</CodeArt>
         </Feature>
+	<Feature From="1080p HD Video">
+	    <Name>2K SHD Video<Name>
+	    <Category>Video</Category>
+	    <Description>Something to watch for your video<Description>
+            <DevTime>7</DevTime>
+	    <Innovation>0.2</Innovation>
+	    <Usability>1</Usability>
+	    <Stability>0.8</Stability>
+	    <CodeArt>1</CodeArt>	    
+	</Feature>	
 	</Features>
 </SoftwareType>
