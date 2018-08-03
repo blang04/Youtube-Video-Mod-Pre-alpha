@@ -1,0 +1,71 @@
+-start(base)
+Software Inc
+Fortnite
+Minecraft
+Roblox
+Warframe
+Call of Duty 
+Call of Duty: United Offensive 
+Call of Duty: Classic 
+Call of Duty: Finest Hour
+Call of Duty 2 
+Call of Duty 2 Mobile 
+Call of Duty 2 (Windows Mobile) 
+Call of Duty 2: Big Red One 
+Call of Duty 3 
+Call of Duty: Roads to Victory 
+Call of Duty 4: Modern Warfare 
+Call of Duty 4: Modern Warfare Nintendo DS
+Call of Duty 4: Modern Warfare Mobile
+Call of Duty: Modern Warfare: Reflex Edition
+Call of Duty: Modern Warfare Remastered
+Call of Duty: World at War 
+Call of Duty: World at War: Final Fronts 
+Call of Duty: World at War Nintendo DS 
+Call of Duty: World at War Mobile
+Call of Duty: Zombies 
+Call of Duty: Modern Warfare 2 
+Call of Duty: Modern Warfare 2: Force Recon 
+Call of Duty: Modern Warfare: Mobilized 
+Call of Duty: Black Ops  
+Call of Duty: Black Ops Nintendo DS 
+Call of Duty: Black Ops Mobile 
+Call of Duty: Black Ops Zombies 
+Call of Duty: Modern Warfare 3 
+Call of Duty: Modern Warfare 3: Defiance 
+Call of Duty: Black Ops II 
+Call of Duty: Black Ops: Declassified 
+Call of Duty: Strike Team 
+Call of Duty Online 
+Call of Duty: Ghosts 
+Call of Duty: Advanced Warfare 
+Call of Duty: Heroes 
+Call of Duty: Black Ops III 
+Call of Duty: Infinite Warfare 
+Call of Duty: WWII
+Call of Duty: Black Ops 4
+Modern Warfare 2: Ghost
+The Escapists
+The Escapists 2
+Prison Arcitect
+Grand Theft Auto  
+Grand Theft Auto 2 
+Grand Theft Auto 3: Liberty City  
+Grand Theft Auto: Vice City  
+Grand Theft Auto: San Andreas 
+Grand Theft Auto: Liberty City Stories  
+Grand Theft Auto: Vice City Stories  
+Grand Theft Auto IV 
+Grand Theft Auto IV: The Lost and Dammed 
+Grand Theft Auto IV: The Ballad of The Gay Tony  
+Grand Theft Auto V 
+-base(end,stop)
+season 1
+season 2
+season 3
+season 4
+season 5
+-end(stop)
+ep
+episode
+part
